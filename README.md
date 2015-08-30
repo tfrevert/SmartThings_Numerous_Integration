@@ -1,4 +1,4 @@
-# SmartThings_Numerous_Integration
+# SmartThings Numerous SmartApp
 SmartApp that sends updates to the Numerous API based on data reported by a SmartThings compatible device.
 
 Numerous is an easy and free way to keep track of your energy usage or other sensors that report numerical data monitored through a SmartThings hub.
